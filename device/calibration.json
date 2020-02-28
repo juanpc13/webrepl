@@ -1,0 +1,13 @@
+{
+    "xVOL1": 21030.0, "xVOL2": 31459.0,
+    "xACE1": -9.8, "xACE2": 9.8,
+
+    "yVOL1": 20486.0, "yVOL2": 30945.0,
+    "yACE1": -9.8, "yACE2": 9.8,
+
+    "zVOL1": 21071.0, "zVOL2": 31372.0,
+    "zACE1": -9.8, "zACE2": 9.8,
+
+    "dragerVOL1": 6436.0, "dragerVOL2": 32767.0,
+    "dragerPPM1": 400.0, "dragerPPM2": 9990.0
+}
